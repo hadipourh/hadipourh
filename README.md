@@ -1,5 +1,4 @@
-<a href="https://github.com/hadipourh"><img src=".../t.svg" width="20%" height="20%"></a>
-
+<a href="https://github.com/hadipourh"><img src=".../t.svg" width="10%" height="10%"></a>
 <a href="https://github.com/hadipourh"><img src=".../c.svg" width="100%" height="100%"></a>
 
 ![Hosein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadipourh&show_icons=true&theme=solarized-light&count_private=true)
