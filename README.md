@@ -2,5 +2,8 @@
 
 <a href="https://github.com/hadipourh"><img src=".../c.svg" width="75%" height="75%"></a>
 
-![Hosein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadipourh&show_icons=true&theme=solarized-light&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadipourh&theme=solarized-light&layout=compact)](https://github.com/hadipourh?tab=repositories)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hadipourh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=hadipourh&&style=flat-square" align="center" />
+</div>  
