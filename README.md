@@ -1,4 +1,4 @@
-<a href="https://github.com/hadipourh"><img src=".../t.svg" width="10%" height="10%"></a>
+<a href="https://github.com/hadipourh"><img src=".../t.svg" width="5%" height="5%"></a>
 
 <div align="center"><a href="https://github.com/hadipourh"><img src=".../c.svg" width="35%" height="35%"></a></div>
 
